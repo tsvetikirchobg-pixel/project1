@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <title>My First Git Experiment!</title>
+</head>
+<body>
+    <h1>Hi, Git!</h1>
+    <p>My First Git Experiment!</p>
+</body>
+</html>
